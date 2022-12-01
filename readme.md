@@ -18,7 +18,7 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
     -Prezzo vendita | MEDIUMINT| NULL
     -Cambio | VARCHAR(10) | NULL
     -Carburante | VARCHAR(7) | NULL
-    -PotenzaCV | VARCHAr(15) | NULL
+    -PotenzaCV | VARCHAR(15) | NULL
     -Cilindrata | SMALLINT | NULL
     -Numero_precedenti_proprietari | TINYINT | NULL
     -Incidentata | VARCHAR(3) | NULL
